@@ -1,0 +1,7 @@
+describe('window handling2',function(){
+    it('to handle child tab',function(){
+        
+    }
+
+
+}
